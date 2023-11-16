@@ -18,7 +18,7 @@ In this example, we have created a table in ```main.sql``` which is called ```pu
 
 The entire table looks like this:
 
-![image](image.png)
+![image](image.jpg)
 
 Our table contains *records* (rows) of data about pupils at 
  a school. Each record (row) contains information about one student. 
